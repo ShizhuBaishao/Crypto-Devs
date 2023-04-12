@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "ethers": "^5.7.0",
+    "web3modal": "^1.9.12"
+  }
+}
